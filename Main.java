@@ -1,4 +1,4 @@
-package MidtermsJavaOOP;
+// package MidtermsJavaOOP;
 import java.util.Scanner;
 
 public class Main{
